@@ -8,6 +8,4 @@
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві. 
 
 <img src="https://github.com/ppc-ntu-khpi/gui-lab3-34-34-golovnia-yana/blob/master/image.png" width="100%"/>
-![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
-![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+
