@@ -7,5 +7,5 @@
 1. Долайте до форми кнопку **Report**, яка має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport).
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві. 
 
-<img src="https://github.com/ppc-ntu-khpi/gui-lab3-34-34-golovnia-yana/blob/master/image.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab3-34-34-golovnia-yana/blob/master/image.png" width="85%"/>
 
